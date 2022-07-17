@@ -4,15 +4,14 @@ declare(strict_types=1);
 
 namespace creeperplayer20\SkyBlock;
 
-use creeperplayer20\JoinUI\jojoe77777\FormAPI\SimpleForm;
-use pocketmine\player\Player;
-
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\Server;
+
+use pocketmine\player\Player;
 
 class Main extends PluginBase implements listener {
 
