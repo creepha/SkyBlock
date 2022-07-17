@@ -1,0 +1,16 @@
+name: SkyBlock
+version: 0.0.1
+author: creeperplayer20
+main: creeperplayer20\SkyBlock\Main
+api: 4.6.0
+src-namespace-prefix: creeperplayer20\SkyBlock
+
+commands:
+    skyblock:
+        description: "SkyBlock menu"
+        usage: "/skyblock"
+        aliases: [sb]
+        permission: "skyblock.use"
+permissions:
+    skyblock.use:
+        default: true
