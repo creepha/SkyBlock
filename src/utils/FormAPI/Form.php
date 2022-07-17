@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace creeperplayer20\SkyBlock\jojoe77777\FormAPI;
+namespace creeperplayer20\SkyBlock\utils\jojoe77777\FormAPI;
 
 use pocketmine\form\Form as IForm;
 use pocketmine\player\Player;
